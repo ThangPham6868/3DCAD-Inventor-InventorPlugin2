@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IG24-258\\Desktop\\C#\\3DCAD\\Inventor\\InventorPlugin2\\InventorPlugin2\\InventorPlugin2.csproj": {}
+    "C:\\Users\\IG24-258\\Desktop\\Linhtinh\\Git\\InventorPlugin2\\3DCAD-Inventor-InventorPlugin2\\InventorPlugin2\\InventorPlugin2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IG24-258\\Desktop\\C#\\3DCAD\\Inventor\\InventorPlugin2\\InventorPlugin2\\InventorPlugin2.csproj": {
+    "C:\\Users\\IG24-258\\Desktop\\Linhtinh\\Git\\InventorPlugin2\\3DCAD-Inventor-InventorPlugin2\\InventorPlugin2\\InventorPlugin2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IG24-258\\Desktop\\C#\\3DCAD\\Inventor\\InventorPlugin2\\InventorPlugin2\\InventorPlugin2.csproj",
+        "projectUniqueName": "C:\\Users\\IG24-258\\Desktop\\Linhtinh\\Git\\InventorPlugin2\\3DCAD-Inventor-InventorPlugin2\\InventorPlugin2\\InventorPlugin2.csproj",
         "projectName": "InventorPlugin2",
-        "projectPath": "C:\\Users\\IG24-258\\Desktop\\C#\\3DCAD\\Inventor\\InventorPlugin2\\InventorPlugin2\\InventorPlugin2.csproj",
+        "projectPath": "C:\\Users\\IG24-258\\Desktop\\Linhtinh\\Git\\InventorPlugin2\\3DCAD-Inventor-InventorPlugin2\\InventorPlugin2\\InventorPlugin2.csproj",
         "packagesPath": "C:\\Users\\IG24-258\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IG24-258\\Desktop\\C#\\3DCAD\\Inventor\\InventorPlugin2\\InventorPlugin2\\obj\\",
+        "outputPath": "C:\\Users\\IG24-258\\Desktop\\Linhtinh\\Git\\InventorPlugin2\\3DCAD-Inventor-InventorPlugin2\\InventorPlugin2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

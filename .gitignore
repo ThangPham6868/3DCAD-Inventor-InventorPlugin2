@@ -1,2 +1,4 @@
 # Bỏ qua toàn bộ thư mục .vs
 .vs/
+.obj/
+.bin/

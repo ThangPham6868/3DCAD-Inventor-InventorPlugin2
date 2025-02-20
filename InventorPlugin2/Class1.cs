@@ -9,7 +9,7 @@ namespace InventorPlugin2
         {
             _inventorApplication = AddInSiteObject.Application;
             //MessageBox.Show("Hello World", "Hello", System.Windows.Forms.MessageBoxButtons.OK);
-            //Testttttt44444444444444444444
+            //TesttClone
             //CreateHelloButton();
             throw new NotImplementedException();
         }
