@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\IG24-258\\Desktop\\C#\\3DCAD\\Inventor\\InventorPlugin2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{449AD918-8C27-4F08-B399-85F4F52763F8}|InventorPlugin2\\InventorPlugin2.csproj|c:\\users\\ig24-258\\desktop\\c#\\3dcad\\inventor\\inventorplugin2\\inventorplugin2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{449AD918-8C27-4F08-B399-85F4F52763F8}|InventorPlugin2\\InventorPlugin2.csproj|solutionrelative:inventorplugin2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{449AD918-8C27-4F08-B399-85F4F52763F8}|InventorPlugin2\\InventorPlugin2.csproj|c:\\users\\ig24-258\\desktop\\c#\\3dcad\\inventor\\inventorplugin2\\inventorplugin2\\inventorplugin2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{449AD918-8C27-4F08-B399-85F4F52763F8}|InventorPlugin2\\InventorPlugin2.csproj|solutionrelative:inventorplugin2\\inventorplugin2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449AD918-8C27-4F08-B399-85F4F52763F8}|InventorPlugin2\\InventorPlugin2.csproj|c:\\users\\ig24-258\\desktop\\c#\\3dcad\\inventor\\inventorplugin2\\inventorplugin2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449AD918-8C27-4F08-B399-85F4F52763F8}|InventorPlugin2\\InventorPlugin2.csproj|solutionrelative:inventorplugin2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,22 +18,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "InventorPlugin2",
               "DocumentMoniker": "C:\\Users\\IG24-258\\Desktop\\C#\\3DCAD\\Inventor\\InventorPlugin2\\InventorPlugin2\\InventorPlugin2.csproj",
               "RelativeDocumentMoniker": "InventorPlugin2\\InventorPlugin2.csproj",
               "ToolTip": "C:\\Users\\IG24-258\\Desktop\\C#\\3DCAD\\Inventor\\InventorPlugin2\\InventorPlugin2\\InventorPlugin2.csproj",
               "RelativeToolTip": "InventorPlugin2\\InventorPlugin2.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-08T00:30:36.605Z"
+              "WhenOpened": "2025-01-08T00:30:36.605Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\IG24-258\\Desktop\\C#\\3DCAD\\Inventor\\InventorPlugin2\\InventorPlugin2\\Class1.cs",
               "RelativeDocumentMoniker": "InventorPlugin2\\Class1.cs",
