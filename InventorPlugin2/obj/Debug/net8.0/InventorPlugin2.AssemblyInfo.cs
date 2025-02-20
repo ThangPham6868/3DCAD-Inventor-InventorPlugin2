@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InventorPlugin2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ae5b4ecaccb8f95d69831a431a3fe540698e20b")]
 [assembly: System.Reflection.AssemblyProductAttribute("InventorPlugin2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InventorPlugin2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
